@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "name": "Ailten",
+  "timeTotalInGame": "00:07:38.4360000",
+  "keyboard": "customKeyboard",
+  "customKeyboard": {
+    "Z": "Z",
+    "Q": "Q",
+    "S": "S",
+    "D": "D"
+  },
+  "channelTwitchToConnect": "ailten",
+  "cmdTwitchJoinVillage": "!joinVillage",
+  "villageoiStats": []
+}
